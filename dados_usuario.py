@@ -1,4 +1,4 @@
-# Pega dados do usuario e retorna em duma frase
+# Pega dados do usuario e retorna em uma frase
 print("Qual seu nome? ")
 nome = input()
 
